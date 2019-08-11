@@ -1,11 +1,16 @@
 _repo: Jingle-in-the-Jungle_60024
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60024-h/images/cover.jpg
 creator:
   author:
     agent_name: Giunta, Aldo
     gutenberg_agent_id: '50746'
     url: http://www.gutenberg.org/2009/agents/50746
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60024#Jingle-in-the-Jungle
 gutenberg_issued: '2019-07-31'
 gutenberg_type: Text
 identifiers:
