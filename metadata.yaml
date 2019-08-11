@@ -1,0 +1,24 @@
+_repo: Jingle-in-the-Jungle_60024
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Giunta, Aldo
+    gutenberg_agent_id: '50746'
+    url: http://www.gutenberg.org/2009/agents/50746
+description: ''
+gutenberg_issued: '2019-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Robots -- Fiction'
+- !lcsh 'Boxing stories'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Jingle in the Jungle
+url: http://www.gutenberg.org/ebooks/60024
